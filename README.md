@@ -68,3 +68,6 @@ The dashboard can be used to explore:
 **Betshiya S.G**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel | AI & Machine Learning
+ashboard Preview
+
+![HR Analytics Dashboard](https://github.com/betshiya-analytics/HR-Analytics-PowerBI-Dashboard/blob/main/Screenshot%202026-09-24%20091935.png)
